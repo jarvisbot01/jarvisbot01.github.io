@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">  <style>
+    @media (prefers-color-scheme: light) {
+      #background { fill: #2c3e50; }
+      #text { fill: #f5f5f5; }
+    }
+    @media (prefers-color-scheme: dark) {
+      #background { fill: #e0e0e0; }
+      #text { fill: #1e1e1e; }
+    }
+  </style>
+  <circle id="background" cx="16" cy="16" r="16" />
+  <text id="text" x="16" y="22" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">JD</text>
+</svg>
